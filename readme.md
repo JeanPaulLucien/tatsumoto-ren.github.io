@@ -9,7 +9,6 @@
 <link rel="stylesheet" href="res/blog.css" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="feed.rss">
 <link rel="icon" type="image/webp" href="/img/logo.webp"/>
-<title>List of Matrix servers</title>
 <meta property="og:title" content="List of Matrix servers">
 <meta property="og:site_name" content="Tatsumoto Ren">
 <meta property="og:url" content="https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html">
@@ -21,7 +20,7 @@
 <input type="checkbox" id="menu-btn" />
 <header>
 <a href="index.html" class="logo">
-<img alt="達元" src="/img/logo.webp" />
+<!--<img alt="達元" src="/img/logo.webp" />-->
 <span>Tatsumoto</span>
 </a>
 <div id="description">How to use Free Software to learn Japanese, and more.</div>
