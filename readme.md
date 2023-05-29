@@ -465,8 +465,8 @@ without having to use a desktop client.</p>
 <li><a href="https://element.pwoss.org/">https://element.pwoss.org/</a></li>
 <li><a href="https://element.trygve.me/">https://element.trygve.me/</a></li>
 <li><a href="https://chat.freakachu.org/">https://chat.freakachu.org/</a></li>
-<li><a href="https://element.avlikos.gr/">https://element.avlikos.gr/</a></li>
-<li><a href="https://riot.scamdemic.wtf/">https://riot.scamdemic.wtf/</a></li>
+
+
 <li><a href="https://webchat.freitrix.de/">https://webchat.freitrix.de/</a></li>
 <li><a href="https://mailstation.de/riot/">https://mailstation.de/riot/</a></li>
 <li><a href="https://the-apothecary.club/">https://the-apothecary.club/</a></li>
@@ -476,12 +476,15 @@ without having to use a desktop client.</p>
 </ul>
   
   <p>Element 1.11.31<ul>
+  <li><a href="https://riot.scamdemic.wtf/">https://riot.scamdemic.wtf/</a></li>
   <li><a href="https://chat.fairydust.space/">https://chat.fairydust.space/</a></li>
   </ul></p>
   
   <p>Element 1.11.26<ul>
   <li><a href="https://element.thisisjoes.site/">https://element.thisisjoes.site/</a></li>
   </ul></p>
+  
+  <p>1.11.23 and below</p>
   
   <p>Element 1.11.15<ul>
   <li><a href="https://grid.rrze.fau.de/riotweb/">https://grid.rrze.fau.de/riotweb/</a></li>
@@ -493,6 +496,7 @@ without having to use a desktop client.</p>
   </ul></p>
   
   <p>Timeout<ul>
+  <li><a href="https://element.avlikos.gr/">https://element.avlikos.gr/</a></li>
   <li><a href="https://element.fatherjim.tech/">https://element.fatherjim.tech/</a></li>
   </ul></p>
   
