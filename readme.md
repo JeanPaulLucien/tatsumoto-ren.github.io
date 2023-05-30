@@ -455,7 +455,7 @@ without having to use a desktop client.</p>
 
 
 <li><a href="https://webchat.freitrix.de/">https://webchat.freitrix.de/</a></li>
-<li><a href="https://element.mailstation.de/" target="_blank">https://element.mailstation.de/</a> (server: <a href="https://mailstation.de/" target="_blank">https://element.mailstation.de/</a></li>
+<li><a href="https://element.mailstation.de/" target="_blank">https://element.mailstation.de/</a> + server <a href="https://mailstation.de/" target="_blank">https://mailstation.de/</a></li>
 <li><a href="https://the-apothecary.club/">https://the-apothecary.club/</a></li>
 
   <li><a href="https://element.privacytools.io/">https://element.privacytools.io/</a></li>
