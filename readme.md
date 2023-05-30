@@ -396,22 +396,9 @@ without having to use a desktop client.</p>
 <li><a href="https://element.radiowarnerd.org/">https://element.radiowarnerd.org/</a> 🏆</li>
 <li><a href="https://element.fablabchemnitz.de/">https://element.fablabchemnitz.de/</a> 🏆</li>
 <li><a href="https://matrix-client.seditio.xyz/">https://matrix-client.seditio.xyz/</a> 🏆</li>
-<li><a href="https://comf.chat/">https://comf.chat/</a></li>
-<li><a href="https://web.yuri.im/">https://web.yuri.im/</a></li>
-<li><a href="https://matrix.base8.org/">https://matrix.base8.org/</a></li>
-<li><a href="https://unita.online/">https://unita.online/</a></li>
-<li><a href="https://chat.zelchat.de/">https://chat.zelchat.de/</a></li>
-<li><a href="https://chat.peek-a-boo.at/">https://chat.peek-a-boo.at/</a></li>
-<li><a href="https://element.cccgoe.de/">https://element.cccgoe.de/</a></li>
-<li><a href="https://mx.aire.ml/">https://mx.aire.ml/</a></li>
-<li><a href="https://matrix.therealblue.de/">https://matrix.therealblue.de/</a></li>
-<li><a href="https://element.internet-portal.cz/">https://element.internet-portal.cz/</a></li>
-<li><a href="https://element.w1l.duckdns.org/">https://element.w1l.duckdns.org/</a></li>
-<li><a href="https://chat.leon.wtf/">https://chat.leon.wtf/</a></li>
-<li><a href="https://matrix.club-tech.fr/">https://matrix.club-tech.fr/</a></li>
-<li><a href="https://chat.joinpoint.org/">https://chat.joinpoint.org/</a></li>
-<li><a href="https://www.schotty.com/">https://www.schotty.com/</a></li>
-<li><a href="https://matrix.riotcat.org/">https://matrix.riotcat.org/</a></li>
+  
+<p><a href="https://chat.joinpoint.org/">https://chat.joinpoint.org/</a>, <a href="https://chat.leon.wtf/">https://chat.leon.wtf/</a>, <a href="https://chat.peek-a-boo.at/">https://chat.peek-a-boo.at/</a>, <a href="https://chat.zelchat.de/">https://chat.zelchat.de/</a>, <a href="https://comf.chat/">https://comf.chat/</a>, <a href="https://element.cccgoe.de/">https://element.cccgoe.de/</a>, <a href="https://element.internet-portal.cz/">https://element.internet-portal.cz/</a>, <a href="https://element.w1l.duckdns.org/">https://element.w1l.duckdns.org/</a>, <a href="https://matrix.base8.org/">https://matrix.base8.org/</a>, <a href="https://matrix.club-tech.fr/">https://matrix.club-tech.fr/</a>, <a href="https://matrix.riotcat.org/">https://matrix.riotcat.org/</a>, <a href="https://matrix.therealblue.de/">https://matrix.therealblue.de/</a>, <a href="https://matrix.therealblue.de/">https://matrix.therealblue.de/</a>, <a href="https://mx.aire.ml/">https://mx.aire.ml/</a>, <a href="https://unita.online/">https://unita.online/</a>, <a href="https://web.yuri.im/">https://web.yuri.im/</a>, <a href="https://www.schotty.com/">https://www.schotty.com/</a></p>
+  
 <li><a href="https://chat.thorko.de/">https://chat.thorko.de/</a></li>
 <li><a href="https://chat.cambsac.org.uk/">https://chat.cambsac.org.uk/</a></li>
 <li><a href="https://cell.linuxbrujo.net/">https://cell.linuxbrujo.net/</a></li>
