@@ -342,6 +342,14 @@ main li+li {
     margin-top: 0.25em;
 }
 
+.img-n-caption {
+    text-align: center;
+    font-style: italic;
+}
+.img-n-caption a, img-n-caption img {
+    cursor: help;
+}
+
 main img.shadow {
     box-shadow: 2px 2px 3px #999;
 }
