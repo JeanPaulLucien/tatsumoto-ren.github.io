@@ -6,7 +6,7 @@
 <meta name="description" content="How to use Free Software to learn Japanese, and more." />
 <meta name="author" content="Tatsumoto" />
 <meta name="keywords" content="Learn Japanese, Tatsumoto's Guide to Japanese, Path to Japanese fluency" />
-<link rel="stylesheet" href="res/blog.css" type="text/css">
+<link rel="stylesheet" href="https://tatsumoto-ren.github.io/res/blog.css" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="feed.rss">
 <link rel="icon" type="image/webp" href="/img/logo.webp"/>
 <meta property="og:title" content="List of Matrix servers">
@@ -14,7 +14,7 @@
 <meta property="og:url" content="https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html">
 <meta property="og:description" content="How to use Free Software to learn Japanese, and more.">
 <meta property="og:image" content="https://tatsumoto-ren.github.io/img/logo.webp">
-<script defer src="res/blog.js"></script>
+<script defer src="https://tatsumoto-ren.github.io/res/blog.js"></script>
 </head>
 <body>
 <input type="checkbox" id="menu-btn" />
