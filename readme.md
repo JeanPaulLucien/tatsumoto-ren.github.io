@@ -110,18 +110,28 @@ You may need to Email an admin to get an account.</p>
     <th>Recommends</th><th>Extra</th>
   </tr></thead>
   <tbody>
-    <tr><td>matrix.thisisjoes.site</td><td><a href="https://element.thisisjoes.site/">Element</a></td><td rowspan='2'>1</td><td></td></tr>
+    <tr><td>matrix.thisisjoes.site</td><td><a href="https://element.thisisjoes.site/">Element</a></td><td rowspan='2'><a href='recommendator-1'>1</a></td><td></td></tr>
     <tr><td>nerdsin.space</td><td><a href="https://nerdsin.space/">nerdsin.space</a></td><td>🏆</td></tr>
-    <tr><td>community.rs</td><td><a href="https://element.community.rs">Element</a></td><td rowspan='4'>2</td><td></td></tr>
+    <tr>
+      <td>community.rs</td>
+      <td><a href="https://element.community.rs">Element</a></td>
+      <td rowspan='4'><a href='#recommendator-2'>2</a></td>
+      <td></td>
+    </tr>
   
 <tr><td>matrix.im</td><td><a href="https://element.matrix.im">Element</a></td><td></td></tr>
 <tr><td>matrix.unredacted.org</td><td><a href="https://element.unredacted.org">element</a></td><td></td></tr>
 <tr><td>zelchat.de</td><td><a href="https://chat.zelchat.de/">chat.zelchat.de</a></td><td></td></tr>
-<tr><td>https://cutefunny.art</td><td><a href="https://matrixclient.cutefunny.art/" target="_blank">cutefunny.art</a></td><td rowspan='12'>3</td><td class="extra">🏆</td></tr>
+<tr>
+  <td>https://cutefunny.art</td>
+  <td><a href="https://matrixclient.cutefunny.art/" target="_blank">cutefunny.art</a></td>
+  <td rowspan='12'><a href='#recommendator-3'>3</a></td>
+  <td class="extra">🏆</td>
+</tr>
 <tr><td>https://matrix.linuxdelta.com</td><td><a href="https://element.linuxdelta.com/" target="_blank">linuxdelta.com</a></td><td class="extra">🏆</td></tr>
 <tr><td>kde.org</td><td><a href="https://webchat.kde.org/">kde.org</a></td><td></td></tr>
 <tr><td align="left"><code>m.wfr.moe</code></td><td align="left"><a href="https://c.wfr.moe/">wfr.moe</a></td><td></td></tr>
-<tr><td><code>sakura.ci</code></td><td><a href="https://web.sakura.ci/">web.sakura.ci</a></td><td></td></tr>
+<tr><td>sakura.ci</td><td><a href="https://web.sakura.ci/">web.sakura.ci</a></td><td></td></tr>
 <tr><td>iddqd.chat</td><td><a href="https://iddqd.chat/">iddqd.chat</a></td><td></td></tr>
 <tr><td>trygve.me</td><td><a href="https://element.trygve.me/">trygve.me</a></td><td></td></tr>
 <tr><td>nitro.chat</td><td><a href="https://app.nitro.chat/">nitro.chat</a></td><td></td></tr>    
@@ -134,9 +144,11 @@ You may need to Email an admin to get an account.</p>
 
 
 <ol>Recommendators
-  <li><a href="https://glowers.club/wiki/doku.php?id=wiki:homeservers">A list of homeservers</a> recommended by <a href="https://glowers.club/wiki/">Glowers Club</a></li>
-  <li>#d:anontier.nl (it's offline)</li>
-  <li>Tatsumoto</li>
+  <li id='recommendator-1'>
+    <a href="https://glowers.club/wiki/doku.php?id=wiki:homeservers">A list of homeservers</a> recommended by <a href="https://glowers.club/wiki/">Glowers Club</a>
+  </li>
+  <li id='recommendator-2'>#d:anontier.nl (it's offline)</li>
+  <li id='recommendator-3'>Tatsumoto</li>
 </ol>
 
 <h3 id="intelligent-selections-regarding-account-entrustment-listed"><a class="anchor" href="#intelligent-selections-regarding-account-entrustment-listed" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://plan9.rocks/israel/">Intelligent Selections Regarding Account Entrustment, Listed</a></h3>
