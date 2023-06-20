@@ -150,37 +150,14 @@ You may need to Email an admin to get an account.</p>
 <td align="left"><code>m.wfr.moe</code></td>
 <td align="left"><a href="https://c.wfr.moe/">wfr.moe</a></td> <td></td>
 </tr>
-
-    <tr>
-<td align="left"><code>sakura.ci</code></td>
-<td align="left"><a href="https://web.sakura.ci/">web.sakura.ci</a></td>
- 
-<td></td></tr>
-    
+<tr><td><code>sakura.ci</code></td><td><a href="https://web.sakura.ci/">web.sakura.ci</a></td><td></td></tr>
 <tr><td>iddqd.chat</td><td><a href="https://iddqd.chat/">iddqd.chat</a></td><td></td></tr>
 <tr><td>trygve.me</td><td><a href="https://element.trygve.me/">trygve.me</a></td><td></td></tr>
-<tr><td>nitro.chat</td><td><a href="https://app.nitro.chat/">nitro.chat</a></td><td></td></tr>
-    
-<tr>
-<td align="left">cuteworld.space</td>
-<td align="left"><a href="https://element.cuteworld.space/">element.cuteworld.space</a></td> td align="left"></td>
-</tr>
-    
-<tr>
-<td align="left"><code>midov.pl</code></td>
-<td align="left"><a href="https://element.midov.pl/element/">midov.pl</a></td> <td align="left">🏆</td>
-</tr>
-    
-<tr>
-<td align="left"><code>chat.mistli.net</code></td>
-<td align="left"><a href="https://chat.mistli.net/">chat.mistli.net</a></td> <td></td></tr>
-    
-<tr>
-<td>koneko.chat</td>
-<td><a href="https://element.koneko.chat/">element.koneko.chat</a></td> 
-<td></td>
-</tr>
-
+<tr><td>nitro.chat</td><td><a href="https://app.nitro.chat/">nitro.chat</a></td><td></td></tr>    
+<tr><td>cuteworld.space</td><td><a href="https://element.cuteworld.space/">element.cuteworld.space</a></td><td></td></tr>    
+<tr><td>midov.pl</td><td><a href="https://element.midov.pl/element/">midov.pl</a></td><td>🏆</td></tr>    
+<tr><td>chat.mistli.net</td><td><a href="https://chat.mistli.net/">chat.mistli.net</a></td><td></td></tr>
+<tr><td>koneko.chat</td><td><a href="https://element.koneko.chat/">element.koneko.chat</a></td><td></td></tr>
 </tbody>
 </table>
 
