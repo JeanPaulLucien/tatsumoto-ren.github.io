@@ -137,11 +137,7 @@ You may need to Email an admin to get an account.</p>
     
 <tr><td><code>https://cutefunny.art</code></td><td><a href="https://matrixclient.cutefunny.art/" target="_blank">cutefunny.art</a></td> <td rowspan='12'>3</td><td class="extra">🏆</td>
 </tr>
-
-    <tr>
-<td>https://matrix.linuxdelta.com</td>
-<td><a href="https://element.linuxdelta.com/" target="_blank">linuxdelta.com</a></td>
-   <td class="extra">🏆</td>
+<tr><td>https://matrix.linuxdelta.com</td><td><a href="https://element.linuxdelta.com/" target="_blank">linuxdelta.com</a></td><td class="extra">🏆</td>
 </tr>
 
     <tr>
@@ -161,23 +157,12 @@ You may need to Email an admin to get an account.</p>
  
 <td></td></tr>
     
-<tr>
-<td>iddqd.chat</td>
-<td align="left"><a href="https://iddqd.chat/">iddqd.chat</a></td> 
-<td></td></tr>
+<tr><td>iddqd.chat</td><td><a href="https://iddqd.chat/">iddqd.chat</a></td><td></td></tr>
+<tr><td>trygve.me</td><td><a href="https://element.trygve.me/">trygve.me</a></td><td></td></tr>
+<tr><td>nitro.chat</td><td><a href="https://app.nitro.chat/">nitro.chat</a></td><td></td></tr>
     
 <tr>
-<td>trygve.me</code></td>
-<td align="left"><a href="https://element.trygve.me/">trygve.me</a></td>
- <td></td></tr>
-    
-<tr>
-<td align="left"><code>nitro.chat</code></td>
-<td align="left"><a href="https://app.nitro.chat/">nitro.chat</a></td> <td></td>
-</tr>
-    
-<tr>
-<td align="left"><code>cuteworld.space</code></td>
+<td align="left">cuteworld.space</td>
 <td align="left"><a href="https://element.cuteworld.space/">element.cuteworld.space</a></td> td align="left"></td>
 </tr>
     
