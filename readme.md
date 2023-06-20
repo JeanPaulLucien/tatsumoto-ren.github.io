@@ -117,21 +117,10 @@ You may need to Email an admin to get an account.</p>
 <tr><td>matrix.im</td><td><a href="https://element.matrix.im">Element</a></td><td></td></tr>
 <tr><td>matrix.unredacted.org</td><td><a href="https://element.unredacted.org">element</a></td><td></td></tr>
 <tr><td>zelchat.de</td><td><a href="https://chat.zelchat.de/">chat.zelchat.de</a></td><td></td></tr>
-<tr><td>https://cutefunny.art</td><td><a href="https://matrixclient.cutefunny.art/" target="_blank">cutefunny.art</a></td><td rowspan='11'>3</td><td class="extra">🏆</td>
-</tr>
-<tr><td>https://matrix.linuxdelta.com</td><td><a href="https://element.linuxdelta.com/" target="_blank">linuxdelta.com</a></td><td class="extra">🏆</td>
-</tr>
-
-    <tr>
-<td>kde.org</td>
-<td><a href="https://webchat.kde.org/">kde.org</a></td>
- <td></td>
-</tr>
-    
-<tr>
-<td align="left"><code>m.wfr.moe</code></td>
-<td align="left"><a href="https://c.wfr.moe/">wfr.moe</a></td> <td></td>
-</tr>
+<tr><td>https://cutefunny.art</td><td><a href="https://matrixclient.cutefunny.art/" target="_blank">cutefunny.art</a></td><td rowspan='12'>3</td><td class="extra">🏆</td></tr>
+<tr><td>https://matrix.linuxdelta.com</td><td><a href="https://element.linuxdelta.com/" target="_blank">linuxdelta.com</a></td><td class="extra">🏆</td></tr>
+<tr><td>kde.org</td><td><a href="https://webchat.kde.org/">kde.org</a></td><td></td></tr>
+<tr><td align="left"><code>m.wfr.moe</code></td><td align="left"><a href="https://c.wfr.moe/">wfr.moe</a></td><td></td></tr>
 <tr><td><code>sakura.ci</code></td><td><a href="https://web.sakura.ci/">web.sakura.ci</a></td><td></td></tr>
 <tr><td>iddqd.chat</td><td><a href="https://iddqd.chat/">iddqd.chat</a></td><td></td></tr>
 <tr><td>trygve.me</td><td><a href="https://element.trygve.me/">trygve.me</a></td><td></td></tr>
