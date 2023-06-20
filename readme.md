@@ -114,28 +114,10 @@ You may need to Email an admin to get an account.</p>
     <tr><td>nerdsin.space</td><td><a href="https://nerdsin.space/">nerdsin.space</a></td><td>🏆</td></tr>
     <tr><td>community.rs</td><td><a href="https://element.community.rs">Element</a></td><td rowspan='4'>2</td><td></td></tr>
   
-<tr>
-<td>matrix.im</td>
-<td><a href="https://element.matrix.im">Element</a></td>
-   
-
-<td></td></tr>
-
-  <tr>
-<td>matrix.unredacted.org</td>
-<td><a href="https://element.unredacted.org">element</a></td>   
-<td></td>
-</tr>
-  
-<tr>
-<td>zelchat.de</td>
-<td><a href="https://chat.zelchat.de/">chat.zelchat.de</a></td>
-   
-<td></td>
-</tr>
-
-    
-<tr><td><code>https://cutefunny.art</code></td><td><a href="https://matrixclient.cutefunny.art/" target="_blank">cutefunny.art</a></td> <td rowspan='12'>3</td><td class="extra">🏆</td>
+<tr><td>matrix.im</td><td><a href="https://element.matrix.im">Element</a></td><td></td></tr>
+<tr><td>matrix.unredacted.org</td><td><a href="https://element.unredacted.org">element</a></td><td></td></tr>
+<tr><td>zelchat.de</td><td><a href="https://chat.zelchat.de/">chat.zelchat.de</a></td><td></td></tr>
+<tr><td>https://cutefunny.art</td><td><a href="https://matrixclient.cutefunny.art/" target="_blank">cutefunny.art</a></td><td rowspan='11'>3</td><td class="extra">🏆</td>
 </tr>
 <tr><td>https://matrix.linuxdelta.com</td><td><a href="https://element.linuxdelta.com/" target="_blank">linuxdelta.com</a></td><td class="extra">🏆</td>
 </tr>
