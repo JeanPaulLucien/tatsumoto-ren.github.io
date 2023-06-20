@@ -100,28 +100,19 @@ This section contains homeservers hand-picked by me and trusted third-parties.
 With a 🏆 I marked servers that have received a <span title="ACL ban">trophy of recognition</span> from the Matrix HQ team.</p>
 <p>Not all the servers may be open for registration at any point of time.
 You may need to Email an admin to get an account.</p>
+
+
+
 <table>
-  <thead><tr><th>Server's URL</th><th>Web client's link</th><th>Recommends</th><th>Extra</th></tr></thead>
+  <thead><tr>
+    <th>Server's URL</th>
+    <th>Web client's link</th>
+    <th>Recommends</th><th>Extra</th>
+  </tr></thead>
   <tbody>
-    <tr>
-<td>matrix.thisisjoes.site</td>
-<td><a href="https://element.thisisjoes.site/">Element</a></td> <td rowspan='2'>1</td><td></td>
-</tr>
-
-    <tr>
-<td>nerdsin.space</td>
-<td><a href="https://nerdsin.space/">nerdsin.space</a></td> 
-<td>🏆</td>
-</tr>
-
-
-  
-<tr>
-<td>community.rs</td>
-<td><a href="https://element.community.rs">Element</a></td>  
- <td rowspan='4'>2</td>
-<td></td>
-</tr>
+    <tr><td>matrix.thisisjoes.site</td><td><a href="https://element.thisisjoes.site/">Element</a></td><td rowspan='2'>1</td><td></td></tr>
+    <tr><td>nerdsin.space</td><td><a href="https://nerdsin.space/">nerdsin.space</a></td><td>🏆</td></tr>
+    <tr><td>community.rs</td><td><a href="https://element.community.rs">Element</a></td><td rowspan='4'>2</td><td></td></tr>
   
 <tr>
 <td>matrix.im</td>
